@@ -1,0 +1,81 @@
+[2019-12-12T09:34:57.665] [ERROR] cheese - ReferenceError: ctxss is not defined
+    at actionIndex (/Users/ministar/Documents/code/newCoders/node_books/controllers/IndexController.js:4:27)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:21:19)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:12:23)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-static/index.js:53:15)
+[2019-12-12T09:35:03.275] [ERROR] cheese - ReferenceError: ctxss is not defined
+    at actionIndex (/Users/ministar/Documents/code/newCoders/node_books/controllers/IndexController.js:4:27)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:21:19)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:12:23)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-static/index.js:53:15)
+[2019-12-12T09:35:07.611] [ERROR] cheese - ReferenceError: ctxss is not defined
+    at actionIndex (/Users/ministar/Documents/code/newCoders/node_books/controllers/IndexController.js:4:27)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:21:19)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:12:23)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-static/index.js:53:15)
+[2019-12-12T09:39:01.812] [ERROR] cheese - ReferenceError: ctxss is not defined
+    at actionIndex (/Users/ministar/Documents/code/newCoders/node_books/controllers/IndexController.js:4:27)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:21:19)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:12:23)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-static/index.js:53:15)
+[2019-12-16T15:27:11.891] [ERROR] cheese - ReferenceError: ctxss is not defined
+    at actionIndex (/Users/ministar/Documents/code/newCoders/node_books/controllers/IndexController.js:4:27)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:21:19)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:12:23)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-static/index.js:53:15)
+[2019-12-16T15:27:16.465] [ERROR] cheese - ReferenceError: ctxss is not defined
+    at actionIndex (/Users/ministar/Documents/code/newCoders/node_books/controllers/IndexController.js:4:27)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:21:19)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:12:23)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-static/index.js:53:15)
+[2019-12-16T15:28:09.784] [ERROR] cheese - ReferenceError: ctxss is not defined
+    at actionIndex (/Users/ministar/Documents/code/newCoders/node_books/controllers/IndexController.js:4:27)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:21:19)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/ministar/Documents/code/newCoders/node_books/middlewares/errorHandler.js:12:23)
+    at dispatch (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/ministar/Documents/code/newCoders/node_books/node_modules/koa-static/index.js:53:15)
+[2019-12-16T15:34:53.482] [ERROR] cheese - { code: 1, data: [], message: '❌fetch 请求数据失败' }
+[2019-12-17T11:27:36.468] [ERROR] cheese - { code: 1, data: [], message: '❌fetch 请求数据失败' }
+[2019-12-17T11:27:37.770] [ERROR] cheese - { code: 1, data: [], message: '❌fetch 请求数据失败' }
+[2019-12-17T11:32:27.162] [ERROR] cheese - { code: 1, data: [], message: '❌fetch 请求数据失败' }

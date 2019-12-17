@@ -1,0 +1,10 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "modules": "systemjs" // 将es6模块语法转换为其他模块类型的功能，这里转为 system
+            }
+        ]
+    ]
+}

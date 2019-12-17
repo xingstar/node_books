@@ -1,0 +1,27 @@
+{% extends '../layouts/layout.html' %}
+{% block title %}图书管理首页{% endblock %}
+{% block head %}
+<link rel="stylesheet" href="/style/index.css"></link>
+{% endblock %}
+{% block content %}
+<h4>[[data]]</h4>
+
+{% endblock %}
+{% block scripts %}
+<!-- scripts的模块中 scripts是要加s的 -->
+    <script type="module">
+        import('/script/index.js').then((_) => {
+            console.log('苹果script/index.js',_.default);
+        });
+    </script>
+    <script type="nomodule" src="https://cdn.bootcss.com/systemjs/6.1.1/system.min.js"></script>
+    <script type="nomodule">
+        // 带了type="module" 会比正常script晚，因为他是async方式
+        // bable/cli的作用就是让用babel命令
+        // system 万能模块加载器，比ruquirejs包含的模式要多
+        // 如果浏览器不支持type="nomodule"怎么办,需要webpack插件 把type属性干掉
+        System.import('/script/index-bundle.js').then((_) => {
+            console.log(_.default);
+        })
+    </script>
+{% endblock %}

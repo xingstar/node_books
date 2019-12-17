@@ -1,0 +1,40 @@
+{
+  "name": "node_books",
+  "version": "1.0.0",
+  "description": "使用初始使用node进行编写（根据second weeks practice） 始于2019-11-12ministar controllers是负责页面流程和渲染 models 实现数据模型",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env NODE_ENV=development nodemon ./app.js",
+    "build": "babel assets/script/index.js -o assets/script/index-bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingstar/node_books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingstar/node_books/issues"
+  },
+  "homepage": "https://github.com/xingstar/node_books#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-simple-router": "^0.2.0",
+    "koa-static": "^5.0.0",
+    "koa-swig": "^2.2.1",
+    "lodash": "^4.17.15",
+    "log4js": "^6.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "cross-env": "^6.0.3"
+  }
+}
